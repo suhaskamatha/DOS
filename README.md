@@ -30,7 +30,7 @@ After executing for various work unit sizes as mentioned in the table above, I c
 
 2.
 
-![](RackMultipart20200921-4-u68peb_html_4ccf751f10c489ad.png)
+![](dos1.png)
 
 3. CPU time: 0.515
 
