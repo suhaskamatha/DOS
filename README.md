@@ -26,8 +26,7 @@ Number of workers = N/ Number of sub-problems
 
 After executing for various work unit sizes as mentioned in the table above, I calculated the ratio of CPU time to Real time, the best utilization (number of cores used) comes for work size around 1000. Program is run in a for loop iterated over number of threads in multiples of 10. For question 3 loop in the program was removed and executed for only the best case of 10000 threads.
 
-2.
-![dos_1](https://user-images.githubusercontent.com/43454518/93786988-eece0c00-fbfd-11ea-975b-a0f84746d114.png)
+2. ![dos_1](https://user-images.githubusercontent.com/43454518/93786988-eece0c00-fbfd-11ea-975b-a0f84746d114.png)
 
 
 3.
