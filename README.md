@@ -34,6 +34,9 @@ After executing for various work unit sizes as mentioned in the table above, I c
 
 
 3]
+
+With reference to previous diagram
+
 CPU time: 0.515
 
 Real time: 0.11
@@ -43,6 +46,8 @@ Number of cores = CPU time/ Real time = 4.68
 4]
 
 ![dos_2](https://user-images.githubusercontent.com/43454518/93789508-eecf0b80-fbff-11ea-89f1-0a31080a5ec4.png)
+
+Largest problem 10^8 4 and 600000000 24
 
 ![dos_3](https://user-images.githubusercontent.com/43454518/93789726-348bd400-fc00-11ea-9a5b-91772cfc949a.png)
 
