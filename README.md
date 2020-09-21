@@ -10,8 +10,7 @@ dotnet fsi --langversion:preview filename N k
 
 Example: dotnet fsi --langversion:preview proj1.fsx 1000000 4
 
-1.
-For a given input N=1000000 and k=4
+1.For a given input N=1000000 and k=4
 
 Number of workers = N/ Number of sub-problems
 
