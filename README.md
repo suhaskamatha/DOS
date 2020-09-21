@@ -28,12 +28,7 @@ Number of workers = N/ Number of sub-problems
 
 After executing for various work unit sizes as mentioned in the table above, I calculated the ratio of CPU time to Real time, the best utilization (number of cores used) comes for work size around 1000. Program is run in a for loop iterated over number of threads in multiples of 10. For question 3 loop in the program was removed and executed for only the best case of 10000 threads.
 
-2.img
-src=“Pictures/dos_1”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+2. ![Alt text](/Users/suhas/Pictures/dos_1.png?raw=true "")
 
 
 3. CPU time: 0.515
