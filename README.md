@@ -40,9 +40,10 @@ Number of cores = CPU time/ Real time = 4.68
 
 4.
 
-![](RackMultipart20200921-4-u68peb_html_b1727522f1a1e7e5.png)
+![dos_2](https://user-images.githubusercontent.com/43454518/93789508-eecf0b80-fbff-11ea-89f1-0a31080a5ec4.png)
 
-![](RackMultipart20200921-4-u68peb_html_fb95c33f049aca4a.png)
+![dos_3](https://user-images.githubusercontent.com/43454518/93789726-348bd400-fc00-11ea-9a5b-91772cfc949a.png)
 
-![](RackMultipart20200921-4-u68peb_html_ac414f6fb0f23bc.png)
+![dos_4](https://user-images.githubusercontent.com/43454518/93789759-41a8c300-fc00-11ea-8b6b-56dd1d1d72f3.png)
+
  
