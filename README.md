@@ -14,23 +14,23 @@ Time convergence is calculated for inputs in the multiples of 100 upto 1000 and 
 
 Largest input for gossip:
 
-Full - 1000000
-
-2D - 1000000
-
-Imp2D - 1000000
-
-Line 1000000
-
-Largest Input for push-sum
-
 Full - 100000
 
 2D - 100000
 
 Imp2D - 100000
 
-Line - 100000
+Line 100000
+
+Largest Input for push-sum
+
+Full - 5000
+
+2D - 5000
+
+Imp2D - 5000
+
+Line - 1000
 
  
 
