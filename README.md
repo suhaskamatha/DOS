@@ -21,7 +21,7 @@ In this project, we tested the functionality of routing and joining aspects of t
 
 Number of Requests = 10
 
-|   Number of Nodes   |   Number of Requestws   |   Avg Number of Hops  |
+|   Number of Nodes   |   Number of Requests    |   Avg Number of Hops  |
 | ------------------- |:-----------------------:| ---------------------:|
 |        10           |           10            |         1.05          |
 |       100           |           10            |         2.271         |
@@ -32,7 +32,7 @@ Number of Requests = 10
 
 Number of Requests = 100
 
-|   Number of Nodes   |   Number of Requestws   |   Avg Number of Hops  |
+|   Number of Nodes   |   Number of Requests   |   Avg Number of Hops  |
 | ------------------- |:-----------------------:| ---------------------:|
 |        10           |          100            |         1.120         |
 |       100           |          100            |         2.291         |
