@@ -4,9 +4,8 @@ Suhas Kamath Ammembal, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UFID : 62845791
 
 Tanvi Reddy Rachamallu, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  UFID : 43139981
 
-
-
-
+&nbsp;
+&nbsp;
 
 <b>How to execute?</b>
 
@@ -20,7 +19,7 @@ In this project, we tested the functionality of routing and joining aspects of t
 
 <b>Observations:</b>
 
-1. Number of Requests = 10
+Number of Requests = 10
 
 |   Number of Nodes   |   Number of Requestws   |   Avg Number of Hops  |
 | ------------------- |:-----------------------:| ---------------------:|
@@ -29,7 +28,9 @@ In this project, we tested the functionality of routing and joining aspects of t
 |      1000           |           10            |         3.536         |
 |     10000           |           10            |         4.924         |
 
-2. Number of Requests = 100
+
+
+Number of Requests = 100
 
 |   Number of Nodes   |   Number of Requestws   |   Avg Number of Hops  |
 | ------------------- |:-----------------------:| ---------------------:|
