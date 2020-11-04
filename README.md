@@ -9,7 +9,7 @@ Tanvi Reddy Rachamallu, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 <b>How to execute?</b>
 
-dotnet fsi --langversion:preview fileName <<number of nodes>> <number of requests>
+dotnet fsi --langversion:preview fileName <<number of nodes>/> <number of requests>
  
 Example : dotnet fsi --langversion:preview project3.fsx 1000 10
 
