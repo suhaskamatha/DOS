@@ -12,9 +12,20 @@ Example : dotnet fsi --langversion:preview project3.fsx 1000 10
 
 Observations:
 
+1. Number of Requests = 10
+
 |   Number of Nodes   |   Number of Requestws   |   Avg Number of Hops  |
 | ------------------- |:-----------------------:| ---------------------:|
 |        10           |           10            |         1.05          |
 |       100           |           10            |         2.271         |
 |      1000           |           10            |         3.536         |
 |     10000           |           10            |         4.924         |
+
+2. Number of Requests = 100
+
+|   Number of Nodes   |   Number of Requestws   |   Avg Number of Hops  |
+| ------------------- |:-----------------------:| ---------------------:|
+|        10           |          100            |         1.120         |
+|       100           |          100            |         2.291         |
+|      1000           |          100            |         3.509         |
+|     10000           |          100            |         4.924         |
