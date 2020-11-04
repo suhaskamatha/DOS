@@ -1,10 +1,9 @@
 # DOS
  
-Suhas Kamath Ammembal,            
-       UFID : 62845791
+Suhas Kamath Ammembal,  UFID : 62845791
 
-Tanvi Reddy Rachamallu,
-       UFID : 43139981
+Tanvi Reddy Rachamallu,  UFID : 43139981
+
 
 How to execute:
 
