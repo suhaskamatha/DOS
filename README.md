@@ -8,7 +8,7 @@ Tanvi Reddy Rachamallu, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 
 
-How to execute:
+<b>How to execute?</b>
 
 dotnet fsi --langversion:preview fileName <number of nodes> <number of requests>
  
