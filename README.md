@@ -10,6 +10,10 @@ dotnet fsi --langversion:preview fileName <number of nodes> <number of requests>
  
 Example : dotnet fsi --langversion:preview project3.fsx 1000 10
 
+What is working?
+
+In this project, we tested the functionality of routing and joining aspects of the pastry protocol. The network has been tested for a maximum of 10000 nodes. 
+
 Observations:
 
 1. Number of Requests = 10
