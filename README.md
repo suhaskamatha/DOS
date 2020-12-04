@@ -9,32 +9,14 @@ Tanvi Reddy Rachamallu, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 <b>How to execute?</b>
 
-dotnet fsi --langversion:preview fileName <'number of nodes'> <'number of requests'>
+Open first terminal as server 
+
+dotnet fsi --langversion:preview remoteserver.fsx
+
+Open second terminal as client
+
+dotnet fsi --langversion:preview remoteclient.fsx <number of users>
  
-Example : dotnet fsi --langversion:preview project3.fsx 1000 10
+Example: dotnet fsi --langversion:preview remoteclient.fsx 100
 
-<b>What is working?</b>
-
-In this project, we tested the functionality of routing and joining aspects of the pastry protocol. The network has been tested for a maximum of 10000 nodes. 
-
-<b>Observations:</b>
-
-Number of Requests = 10
-
-|   Number of Nodes   |   Number of Requests    |   Avg Number of Hops  |
-| ------------------- |:-----------------------:| ---------------------:|
-|        10           |           10            |         1.05          |
-|       100           |           10            |         2.271         |
-|      1000           |           10            |         3.536         |
-|     10000           |           10            |         4.924         |
-
-&nbsp;
-
-Number of Requests = 100
-
-|   Number of Nodes   |   Number of Requests   |   Avg Number of Hops  |
-| ------------------- |:-----------------------:| ---------------------:|
-|        10           |          100            |         1.120         |
-|       100           |          100            |         2.291         |
-|      1000           |          100            |         3.509         |
-|     10000           |          100            |         4.924         |
+Note: Run the server and then the client
