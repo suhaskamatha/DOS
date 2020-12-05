@@ -9,14 +9,20 @@ Tanvi Reddy Rachamallu, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 <b>How to execute?</b>
 
-Open first terminal as server 
+Step 1 - First run the server on one terminal
 
-dotnet fsi --langversion:preview remoteserver.fsx
+dotnet fsi --langversion:preview TwitterServer.fsx
 
-Open second terminal as client
 
-dotnet fsi --langversion:preview remoteclient.fsx <number of users>
+Step 2 - Run the client on another terminal
+
+dotnet fsi --langversion:preview TwitterClient.fsx <number of users>
  
-Example: dotnet fsi --langversion:preview remoteclient.fsx 100
+Ex: dotnet fsi --langversion:preview TwitterClient.fsx 100
 
-Note: Run the server and then the client
+Use the TwitterTester.fsx file to manually execute any of registration, sending, subscribing, querying, ‘#’, ‘@’ etc with the input format as follows:
+option+","+POSTrequest+","+username+","+password+","+target+","+tweet+","+query#+","+@+","+register
+
+Implementation - We have 3 files namely TwitterServer.fsx, TwitterClient.fsx and TwitterTester.fsx.
+
+Maximum number of users for which the program was run for: 3000
